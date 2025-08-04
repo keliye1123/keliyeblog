@@ -2,7 +2,7 @@
 
 
 
-![cat](.\cat.jpg)
+![cat](.\images\cat.jpg)
 
 
 
