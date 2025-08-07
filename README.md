@@ -6,7 +6,7 @@
 
 ## ✏️ 算法
 
-- [Leetcode 题解](algorithm/leetcode)
+- [Leetcode 题解](algorithm/Leetcode)
 
 
 
